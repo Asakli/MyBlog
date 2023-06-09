@@ -1,2 +1,2 @@
 # MyBlog
-Just writting for own blog.
+Just writting for my blog.
